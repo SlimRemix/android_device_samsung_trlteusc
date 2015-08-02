@@ -27,5 +27,5 @@ PRODUCT_NAME := slim_trlteusc
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="trlteusc" \
     PRODUCT_NAME="trlteusc" \
-    BUILD_FINGERPRINT="samsung/trlteusc/trlteusc:4.4.4/LRX22C/N910R4TYU1BOC4:user/release-keys" \
-    PRIVATE_BUILD_DESC="trlteusc-user 4.4.4 LRX22C N910R4TYU1BOC4 release-keys"
+    BUILD_FINGERPRINT="samsung/trlteusc/trlteusc:5.1.1/LRX22C/N910R4TYU1BOC4:user/release-keys" \
+    PRIVATE_BUILD_DESC="trlteusc-user 5.1.1 LRX22C N910R4TYU1BOC4 release-keys"

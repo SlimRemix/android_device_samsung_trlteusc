@@ -11,3 +11,4 @@ ro.telephony.default_network=10
 ro.telephony.ril.config=newril
 ril.subscription.types=NV,RUIM
 ro.telephony.default_cdma_sub=0
+
